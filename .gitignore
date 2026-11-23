@@ -1,0 +1,21 @@
+# Backups
+backups/
+*.tar.gz
+*.zip
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+*.bak
+
+# Sensitive files
+.env
+secrets/
+
+# Editors
+.vscode/
+.idea/
